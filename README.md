@@ -5,18 +5,18 @@
 <br>
 
 Uta is a speech-to-text that listens and copies what you say into your clipboard (Togglable)   
-Currently for English, French, Japanese, and Arabic
+Currently for English, French, Japanese, and Arabic  
 
 ##  
 
 #### Shortcut  
-ToggleListen:    alt+q
-SelectLang:      alt+w
+ToggleListen:    alt+q  
+SelectLang:      alt+w  
   
 <br>
 
 ### Usage 
-1- Download *uta.exe* from the <a href="https://github.com/GokaGokai/uta/releases/tag/v0.1.0">latest release</a>  
+1- Download *uta.exe* from the <a href="https://github.com/GokaGokai/uta/releases">latest release</a>  
 2- Open *uta.exe*  
 ```
 pygame 2.3.0 (SDL 2.24.2, Python 3.10.6)
